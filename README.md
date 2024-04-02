@@ -1,4 +1,3 @@
 # my-unprotected-repo
 que sera sera 
 
-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
