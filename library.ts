@@ -7,7 +7,7 @@ const utils = require('../lib/utils')
 const security = require('../lib/insecurity')
 const request = require('request')
 const logger = require('../lib/logger')
-const gh_pat = "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";
+const gh_pat = "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";
 
 
 module.exports = function profileImageUrlUpload () {
